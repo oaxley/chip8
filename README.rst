@@ -113,18 +113,18 @@ This program is released under the Apache License 2.0. See the bundled `LICENSE`
 
 .. _here: https://www.zophar.net/pdroms/chip8.html
 
-.. _LICENSE: https://github.com/aimktech/chip8/blob/master/LICENSE.txt
+.. _LICENSE: https://github.com/oaxley/chip8/blob/master/LICENSE.txt
 
 .. |cpp| image:: https://img.shields.io/static/v1?label=c%2b%2b&message=17&color=blue&style=flat-square
     :target: https://en.wikipedia.org/wiki/C%2B%2B17
     :alt: C++ 17
 
 .. |license| image:: https://img.shields.io/badge/license-Apache--2.0-blue.svg?style=flat-square
-    :target: https://raw.githubusercontent.com/aimktech/amtTimer/master/LICENSE.txt
+    :target: https://raw.githubusercontent.com/oaxley/chip8/master/LICENSE.txt
     :alt: License
 
-.. |invaders| image:: https://github.com/aimktech/chip8/blob/master/screenshots/invaders.png
+.. |invaders| image:: https://github.com/oaxley/chip8/blob/master/screenshots/invaders.png
     :alt: Space Invaders
 
-.. |tetris| image:: https://github.com/aimktech/chip8/blob/master/screenshots/tetris.png
+.. |tetris| image:: https://github.com/oaxley/chip8/blob/master/screenshots/tetris.png
     :alt: Tetris
